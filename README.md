@@ -1,2 +1,134 @@
-# BusinessAnalyticsA
-Business Analytics A 
+# Business Analytics A, Use Cases
+Working on Git Hub Use Cases is a fully-digitized version and replacement 
+of a student term paper. Instead of a written paper, students have to create 
+a single code repository on GitHub in which the use case is holistically 
+processed, solved, described and documented. 
+
+## How to process your use case
+In order to meet the examination requirements of the HSD University of Applied 
+Sciences (Düsseldorf), the following structure, procedures and standards must be followed.
+They are the basis for the grading of your use case. If you miss them you may get 
+downgraded by up to 2. grades. e.g.: you achieved a perfect result for your use case 
+= 1.0, maybe even worth the next Nobel-Prize, but you totally missed the requirements 
+in regard of size and code quality and structure, then you might get downgraded up 
+to 3.0.
+
+
+### 1. The README.md file
+The file **README.md** represents the central entry point and your main contributions
+for the evaluation and examination of the given use case. This document needs to contain
+at least 10.000 characters, but not more than 100.000 characters. 
+
+**Important:** The number of characters in will be evaluated by automated processes and, 
+if outside this range, will reduce the grading of the use case evaluation by 0,5 grades 
+(from 1.0 best down to 6.0 worst). *Hence, better count your characters...*
+
+For advice on how to write and format MarkDown files please visit (either or both):
+ - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+ - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+The **README.md** file must be written **in English language** (expections on request only)
+and has to contain the following mandatory information in the following order:
+
+ 1. **At the very top of the file**, a list of first name and last name followed 
+    by the matriculation number in squared brackets '[...]' for all students 
+    involved in and to be evaluated for the given use case. Other contributors 
+    must be listed without brackets and marticulation number. *Sample:* The 
+    following markdown code would create a valid output. Only Peter Parker and 
+    Precilla Presley will evaluted for the use case.
+    ```
+    - Peter Peter [7436450]
+    - Precilla Presley [7442803]
+    - Bob the Bausmeister (supporting on GitHub Actions)
+    - Sharon Zurkoswsky
+    ```
+    
+ 2. The title of the use case, exactly as defined by the lecturer (letter by letter)
+    formatted as top level headline.Sample for valid markdown:
+    ```
+    # B2B Customer Churn Analysis
+    ```
+    
+ 3. Any subsequent text, images,tables, links, code fragments and anything else 
+    that explains/contains:
+    
+    1. What was the task to be accomplished? What was intended to achieve?
+       *Sometime analytics projects fail or end up with the insight that the user
+       problem can not be solved. This is also a valid and valuable result.*
+       
+    2. Description and your understanding of the business question or problem, 
+       analytical question and/or technical problem associated with the use case.
+       
+    3. The methodological approach chosen to process and implement the use case.   
+       For analytical uses cases it is wise to follow a structured approach like
+       Microsoft's [Team Database Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview),
+       which is the legitimate successor of the CrispDM methodology.
+       
+    4. **Most important**: A detailed description of your approach, work, findings 
+       and concrete achievements towards the use case. Here you should accumulate 
+       the largest part of your writing.
+       
+    5. A summary if the targets have been achieved, and if not - and whatever the 
+       reason is - why it wasn't achieved.
+
+
+### 2. Proper Source Code
+Any source code, may it be written in Python or any other programming language, 
+will be automatically validated and evaluated against common coding standards 
+and best practises. If the measured formal code quality drops below a certain threshold,
+the grading of the use case evaluation by 0,5 grades up to 1,5 grades (a rare case). 
+*Hence, better check your code quality...*
+
+Code quality will be checked against the official ***PEP 8 Style Guide for Python Code***
+available at https://www.python.org/dev/peps/pep-0008/. Most important are:
+ - All naming conventions
+ - Expressive naming of variables, classes and functions (manually by teacher)
+ - Proper code indentation
+ - Proper source code documentation (classes, functions).
+ - Use of empty lines to separate code blocks
+ - *and others...*
+
+You can ensure and check proper code quality by a combination of the following methods:
+
+ - While coding, follow the rules defined in the official ***PEP 8 Style Guide for Python Code***.
+     
+ - Using PyCharm or another professional IDE for coding. They provide real-time code 
+   quality evaluation. More details and an introduction to the topic are available here: 
+   https://www.jetbrains.com/help/pycharm/tutorial-code-quality-assistance-tips-and-tricks.html
+   
+ - Checking your code quality manually using dedicated tools, e.g.: 
+   - https://pycodestyle.pycqa.org/
+   - https://flake8.pycqa.org/en/latest/
+   - https://www.jetbrains.com/help/pycharm/command-line-code-inspector.html
+   - or simply http://pep8online.com/ 
+
+ - (Recommended) Checking your code quality automatically using a GitHub Action.
+   A good intro is given here:
+   http://www.grantmcconnaughey.com/blog/2020/02/25/automate-python-code-quality/
+
+
+### 3. Proper organization of files
+Create separate folders for the various artefacts of your use case. If you deal with
+data then there should be a separate ```data/...``` folder in your repository. 
+If you need to include images in your markdown file(s) then please create separate
+put them into a folder ```/docs...```. The folder docs should also contain any
+additional documentation for your use case. 
+
+If your repository contains many (Python) code files or even contains a somehow
+complex class hierarchy, then it is also wise to structure it via folders.
+Follow this approach and your safe: https://github.com/kriasoft/Folder-Structure-Conventions.
+
+
+### 4. Clever utilization of the Python eco-system
+>For every problem on this planet, be sure, there exists at least one 
+> Python package that already solves it.
+
+If you are aware of this phenomenon, and also know how to google for Python packages 
+and Python solutions (e.g.: [*your question/problem in short words*] followed by the 
+phrase *"... in Python"* or *"... Python package"*) and where to get good and 
+free community advice for Python coding (https://stackoverflow.com), your use 
+case implementaion will become much faster and also more fun.   
+
+
+
+ 
