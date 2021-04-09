@@ -11,7 +11,7 @@ They are the basis for the grading of your use case. If you miss them you may ge
 downgraded by up to 2. grades. e.g.: you achieved a perfect result for your use case 
 = 1.0, maybe even worth the next Nobel-Prize, but you totally missed the requirements 
 in regard of size and code quality and structure, then you might get downgraded up 
-to 3.0.
+to 4.0. *So, better be careful in following these rules...*
 
 
 ### 1. The README.md file
@@ -128,6 +128,35 @@ and Python solutions (e.g.: [*your question/problem in short words*] followed by
 phrase *"... in Python"* or *"... Python package"*) and where to get good and 
 free community advice for Python coding (https://stackoverflow.com), your use 
 case implementaion will become much faster and also more fun.   
+
+
+### 5. The use of GitHub's project management capabilities
+Use GitHub issues to keep track of all the tasks, enhancements and bugs in your 
+use case. For more information of issues and how to create them, please review:
+
+ - https://docs.github.com/en/github/managing-your-work-on-github/about-issues
+ - https://guides.github.com/features/issues/
+
+Create and use a project to structure and organize your work and tasks. If unsure,
+please use the **Basic kanban** template to get started.
+For more information please refer to:
+ - https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards
+ - https://www.youtube.com/watch?v=nI5VdsVl0FM
+ - https://www.youtube.com/watch?v=ff5cBkPg-bQ
+
+**Important:** It will be automatically evaluated if and to what extend you use
+GitHub issues and at least 1 GitHub project. If GitHub issues are not, rarely or 
+wrongly use, you might get downgraded by 0,5 grades. If no GitHub project is used
+or the project is empty or poorly used, you might get downgraded by 0,5 grades. 
+
+(from 1.0 best down to 6.0 worst). *Hence, better count your characters...*
+![GitHub Project](https://github.githubassets.com/images/modules/site/project-management/project-full.webp)
+
+All the best for your use case... 
+
+*Your teacher*
+
+
 
 
 
