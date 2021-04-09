@@ -4,6 +4,9 @@ of a student term paper. Instead of a written paper, students have to create
 a single code repository on GitHub in which the use case is holistically 
 processed, solved, described and documented. 
 
+Use cases are designed for and should be worked on by 2 to a maximum of 3 students. 
+Reason: You don't get stuck and also especially because *teamwork is simply more fun*. 
+
 ## How to process your use case
 In order to meet the examination requirements of the HSD University of Applied 
 Sciences (Düsseldorf), the following structure, procedures and standards must be followed.
