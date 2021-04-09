@@ -150,9 +150,9 @@ For more information please refer to:
 **Important:** It will be automatically evaluated if and to what extend you use
 GitHub issues and at least 1 GitHub project. If GitHub issues are not, rarely or 
 wrongly use, you might get downgraded by 0,5 grades. If no GitHub project is used
-or the project is empty or poorly used, you might get downgraded by 0,5 grades. 
+or the project is empty or poorly used, you might get downgraded by another 0,5 grades.
+In total, you might loose up to 1,0 grade if you ignore GitHub issues and projects. 
 
-(from 1.0 best down to 6.0 worst). *Hence, better count your characters...*
 ![GitHub Project](https://github.githubassets.com/images/modules/site/project-management/project-full.webp)
 
 All the best for your use case... 
