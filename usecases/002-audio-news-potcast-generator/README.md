@@ -13,7 +13,7 @@ execution on Windows and Mac.
 ### 1. Purpose
 >Fight the Corona blues! 
 
-**Me:** *I'm so bored, please tell me something new I'm interested in*
+**Me:** *I'm so bored, please read out something interesting to me.*
 
 **You:** *No problem, I'm a Python hero!*
 
@@ -52,7 +52,7 @@ Create a command line tool, named **podgen.py** that...
 
 ### 3. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
-directly works after the requirements listed in ***requirements.txt*** are fulfilled.
+directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
 ### 4. To get you started...
 You don't need support on this, really! 

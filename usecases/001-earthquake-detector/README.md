@@ -52,7 +52,7 @@ Create a command line tool, named **quakemonitor.py** that...
 
 ### 3. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
-directly works after the requirements listed in ***requirements.txt*** are fulfilled.
+directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
 
 ### 4. To get you started...
