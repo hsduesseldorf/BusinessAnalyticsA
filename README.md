@@ -1,10 +1,10 @@
-![HSD logo](/images/HSD_logo.png)
-
-*...belongs to lectures **Business Analytics A** of master studies in 
+*...this repository belongs to lectures **Business Analytics A** of master studies in 
 [Business Analytics](https://wiwi.hs-duesseldorf.de/en/student-affairs/study-programmes/master-business-analytics)
 at faculty of [Business Studies](https://wiwi.hs-duesseldorf.de/en)
 from [HSD University of Applied Science](https://hs-duesseldorf.de/en) (Düsseldorf, Germany)
 by [Thomas Zeutschler](https://wiwi.hs-duesseldorf.de/personen/thomas.zeutschler/Seiten/default.aspx)*
+
+![HSD logo](/images/HSD_logo.png)
 
 # Business Analytics A - *Use Cases Summer 2021*  
 Working on Use Cases in Git Hub is intended to be a fully-digitized replacement 
