@@ -52,7 +52,7 @@ Automated generation of a podcast from relevant news available on the internet.
 
 **[002-audio-news-podcast-generator](/cases/002-audio-news-potcast-generator/README.md)**
 
-### 003 - Earth Quake Detector
+### 003 - Plane Close Crash Detector
 Realtime visualization and detection of "close to crash approximations"
 of airplanes in a defined area/region.
 
