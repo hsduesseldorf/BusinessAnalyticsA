@@ -1,5 +1,5 @@
 ### Business Analytics A - Use Case
-**[...back to use case list](/../README.md)**
+**[...back to use case list](/../../README.md)**
 
 # 001 - Earth Quake Detector
 ### 1. Use Case Classification
