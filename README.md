@@ -1,13 +1,43 @@
 # Business Analytics A, Use Cases
-Working on Git Hub Use Cases is a fully-digitized version and replacement 
-of a student term paper. Instead of a written paper, students have to create 
-a single code repository on GitHub in which the use case is holistically 
-processed, solved, described and documented. 
+Working on Use Cases in Git Hub is intended to be a fully-digitized replacement 
+of a student term papers. Instead of a written paper, students have to create 
+and work in a single code repository on GitHub. In this directory the use case 
+is entirely processed, implemented and documented. 
 
-Use cases are designed for and should be worked on by 2 to a maximum of 3 students. 
-Reason: You don't get stuck and also especially because *teamwork is simply more fun*. 
+Use cases are most often designed to be each processed by a team 2 to 3 students. 
+Reasons: As a team you don't get stuck so easily, you can distribute the workload
+on more shoulders, you need to coordinate the team and especially because 
+*teamwork is simply more fun*. 
 
-## How to process your use case
+### Assignment of use cases to teams
+Each individual use case will be processed by one single team. Teams will be put 
+together randomly from all registered students by a Python program. Use cases will
+then be assigned randomly to the available teams.
+
+### Use cases objectives
+The use cases have been designed to reflect the contents, focus topics and 
+learning objectives of the **Business Analytics A** class with the 
+**M.Sc. Business Analytics** studies at **HSD University of Applied Science, 
+Düsseldorf**. These are:
+- Introduction to Professional Programming with Python
+- Agile Software Project Management and Application Lifecycle Management using GitHub
+- Development of Analytical solutions
+- Collaboration in asynchronous teams with distributed responsibilities.
+
+
+## A. Available use cases
+Teams are allowed and encouraged to propose additional use cases. But only 
+before the use cases get randomly assigned to the individual teams. Hence,
+there is no right to get assigned to a certain use case. All is based on luck.
+
+### 001 - Earth Quake Detector
+Realtime detection and visualization of earth quake
+occurrences in predefined region (map segment) over a certain time:
+**[001-eartkquake-dectector](/cases/001-earthquake-detector/README.md)**
+
+
+
+## B. How to process use cases
 In order to meet the examination requirements of the HSD University of Applied 
 Sciences (Düsseldorf), the following structure, procedures and standards must be followed.
 They are the basis for the grading of your use case. If you miss them you may get 

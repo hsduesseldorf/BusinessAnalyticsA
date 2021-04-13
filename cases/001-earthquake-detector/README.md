@@ -1,6 +1,9 @@
 ### Business Analytics A - Use Case 
 # 001 - Earth Quake Detector
 ### 1. Use Case Classification
+**Summary**: Realtime detection and visualization of earth quake
+occurrences in predefined region (map segment) over a certain time.
+
 **Complexity:**  medium complex use case with focus on the selection and 
 orchestration of various Python packages and the implementation of a frontend 
 to get the job done. 
