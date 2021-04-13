@@ -183,7 +183,7 @@ wrongly use, you might get downgraded by 0,5 grades. If no GitHub project is use
 or the project is empty or poorly used, you might get downgraded by another 0,5 grades.
 In total, you might loose up to 1,0 grade if you ignore GitHub issues and projects. 
 
-![GitHub Project](https://github.githubassets.com/images/modules/site/project-management/project-full.webp)
+[[https://github.githubassets.com/images/modules/site/project-management/project-full.webp|GitHub Project]]
 
 All the best for your use case... 
 
