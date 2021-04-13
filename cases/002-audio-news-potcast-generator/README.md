@@ -1,5 +1,9 @@
 ### Business Analytics A - Use Case 
+**[...back to use case list](/../../blob/main/README.md)**
+
 # 002 - Audio News Podcast Generator
+**Summary**: Automated generation of a podcast from relevant news
+available on the internet.
 ### 1. Use Case Classification
 **Complexity:**  low to medium complex use case with focus on the selection and 
 orchestration of various Python packages to get the job done. 
@@ -10,15 +14,14 @@ execution on Windows and Mac.
 
 **Team setup:** 2 to 3 students.
 
-### 1. Purpose
+### 2. Story
 >Fight the Corona blues! 
 
 **Me:** *I'm so bored, please read out something interesting to me.*
 
 **You:** *No problem, I'm a Python hero!*
 
-
-### 2. Functional Requirements / Expected Results
+### 3. Functional Requirements / Expected Results
 Create a command line tool, named **podgen.py** that... 
 
 1. ...comes with a configuration file containing a user-editable list of news 
@@ -50,10 +53,12 @@ Create a command line tool, named **podgen.py** that...
    Note: The audio file should be created in the current folder.
 
 
-### 3. Success Criteria
+### 4. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
 directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
-### 4. To get you started...
-You don't need support on this, really! 
+### 5. To get you started...
+- Reading news feeds: https://www.tutorialspoint.com/python_text_processing/python_reading_rss_feed.htm 
+- Web and API development with Python: https://flask.palletsprojects.com/  
+- Text to speech: https://pypi.org/project/pyttsx3/
 

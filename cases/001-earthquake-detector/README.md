@@ -2,10 +2,10 @@
 **[...back to use case list](/../../blob/main/README.md)**
 
 # 001 - Earth Quake Detector
-### 1. Use Case Classification
 **Summary**: Realtime detection and visualization of earth quake
 occurrences in predefined region (map segment) over a certain time.
 
+### 1. Use Case Classification
 **Complexity:**  medium complex use case with focus on the selection and 
 orchestration of various Python packages and the implementation of a frontend 
 to get the job done. 
@@ -15,15 +15,14 @@ OpenStreetMaps, web frontend development, web-service backend development.
 
 **Team setup:** 2 to 3 students.
 
-### 1. Purpose
+### 2. Story
 >A simple earth quake alerting system for the masses! 
 
 **Me:** *I'm looking for real good vibrations! Where are they?*
 
 **You:** *No problem, I'm a Python hero!*
 
-
-### 2. Functional Requirements / Expected Results
+### 3. Functional Requirements / Expected Results
 Create a command line tool, named **quakemonitor.py** that... 
 
 1. ...starts a web server, opens a web page in the default browser that provides the
@@ -55,15 +54,14 @@ Create a command line tool, named **quakemonitor.py** that...
    - **quakemonitor.py --long 51.246839 --lat 6.7916647 --radius 100**
 
 
-### 3. Success Criteria
+### 4. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
 directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
 
-### 4. To get you started...
- - Flask for backend and webserver: https://flask.palletsprojects.com/en/1.1.x/
+### 5. To get you started...
+ - Web and API development with Python: https://flask.palletsprojects.com/  
  - OSM & Overpass: https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0
  - OSM Wiki: https://wiki.openstreetmap.org/wiki/Main_Page
- -  
 
 

@@ -1,9 +1,10 @@
-https://gist.github.com/mabdrabo/8678538
-https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
-https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d
+### Business Analytics A - Use Case
+**[...back to use case list](/../../blob/main/README.md)**
 
-### Business Analytics A - Use Case 
 # 006 - Employee Attrition Online Service
+**Summary:** Implement a web service to analyse employee data to identify employees 
+likely to leave the company to be able to initiate counter measures. 
+
 ### 1. Use Case Classification
 **Complexity:**  medium complex use case with focus on 
 2-class classification and web app development. 
@@ -13,7 +14,7 @@ web gui programming, data visualization, flask
 
 **Team setup:** 2 to 3 students.
 
-### 1. Purpose
+### 2. Purpose
 > "People are the most important asset of a company!"
 
 **Me:** *It's so hard to keep good people in the company. Who might leave?*   
@@ -21,7 +22,7 @@ web gui programming, data visualization, flask
 **You:** *No problem, I'm a Python hero!*
 
 
-### 2. Functional Requirements / Expected Results
+### 3. Functional Requirements / Expected Results
 Create a command line tool, named **attrition.py** that... 
 
 1. ...spins up a web server and nice helpful web page where users can easily 
@@ -45,13 +46,14 @@ Create a command line tool, named **attrition.py** that...
    **'attrition.py --help'** or  ** 'attrition.py --h'** on Mac/Unix.
 
 
-### 3. Success Criteria
+### 4. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
 directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
-### 4. To get you started...
+### 5. To get you started...
  - Start here: *[Predict Employee Attrition Using Machine Learning & Python](https://medium.com/analytics-vidhya/predict-employee-attrition-a34e2c5a972d)*
- - Flask: [Uploading files with Flask](https://pythonbasics.org/flask-upload-file/)
+ - Web and API development with Python: https://flask.palletsprojects.com/  
+ - File upload: [Uploading files with Flask](https://pythonbasics.org/flask-upload-file/)
  - Sample datasets: [attrition_dataset.xlx](attrition_dataset.xlx)
 
  

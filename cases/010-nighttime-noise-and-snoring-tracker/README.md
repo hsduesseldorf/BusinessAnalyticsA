@@ -1,8 +1,6 @@
-https://gist.github.com/mabdrabo/8678538
-https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
-https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d
+### Business Analytics A - Use Case
+**[...back to use case list](/../../blob/main/README.md)**
 
-### Business Analytics A - Use Case 
 # 010 - Night Time Noise and Snoring Tracker and Recorder
 ### 1. Use Case Classification
 **Complexity:**  medium complex use case with focus on sensor data  
@@ -63,3 +61,6 @@ directly starts up after the requirements listed in ***requirements.txt*** are f
    Smart Wearable Gadget https://www.mdpi.com/2079-9292/8/9/987/pdf
  
 
+https://gist.github.com/mabdrabo/8678538
+https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
+https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d

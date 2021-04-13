@@ -1,8 +1,6 @@
-https://gist.github.com/mabdrabo/8678538
-https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
-https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d
+### Business Analytics A - Use Case
+**[...back to use case list](/../../blob/main/README.md)**
 
-### Business Analytics A - Use Case 
 # 008 - Time Series Forecasting
 ### 1. Use Case Classification
 **Complexity:**  low to medium complex use case with focus on 

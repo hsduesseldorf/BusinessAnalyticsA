@@ -1,5 +1,10 @@
-### Business Analytics A - Use Case 
+### Business Analytics A - Use Case
+**[...back to use case list](/../../blob/main/README.md)**
+
 # 007 - Parquet File Viewer
+**Summary:** Implement a web service to display and analyze files in
+the popular Parquet data file format. 
+
 ### 1. Use Case Classification
 **Complexity:**  medium complex use case with focus data processing 
 and web data visualization. 
@@ -48,9 +53,13 @@ A GitHub repository (public or private) that everyone can clone/download and tha
 directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
 ### 4. To get you started...
+ - Apache Parquet file format: 
+   - https://en.wikipedia.org/wiki/Apache_Parquet
+   - https://parquet.apache.org/  
  - Start here: https://github.com/vipinc007/ParquetViewer
- - That's a good visual blueprint (see table visualization): https://www.kaggle.com/shubh0799/churn-modelling
-
+ - Web and API development with Python: https://flask.palletsprojects.com/  
+ - The follwing screenshot is a good visual blueprint. See table visualization on: https://www.kaggle.com/shubh0799/churn-modelling
+ 
 ![blueprint](viewer.jpg)
 
 

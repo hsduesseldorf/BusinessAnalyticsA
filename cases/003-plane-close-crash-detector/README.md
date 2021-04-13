@@ -1,5 +1,10 @@
-### Business Analytics A - Use Case 
+### Business Analytics A - Use Case
+**[...back to use case list](/../../blob/main/README.md)**
+
 # 003 - Plane Close Crash Detector
+**Summary**: Realtime visualization and detection of "close to crash approximations"
+of airplanes in a defined area/region.
+
 ### 1. Use Case Classification
 **Complexity:**  medium complex use case with focus on realtime-data
 processing of external data, visualization of geo data. 
@@ -9,7 +14,7 @@ calculation of geo data.
 
 **Team setup:** 2 to 3 students.
 
-### 1. Purpose
+### 2. Story
 >Both optimists and pessimists contribute to the society. 
 >The optimist invents the aeroplane, the pessimist the parachute.! 
 
@@ -18,7 +23,7 @@ calculation of geo data.
 **You:** *No problem, I'm a Python hero!*
 
 
-### 2. Functional Requirements / Expected Results
+### 3. Functional Requirements / Expected Results
 Create a command line tool, named **planespotter.py** that... 
 
 1. ...spins up a web server and nice web page with a map of certain area,
@@ -66,11 +71,12 @@ Create a command line tool, named **planespotter.py** that...
    **'planespotter.py --help'** or  ** 'planespotter.py --h'** on MAc/Unix.
    
 
-### 3. Success Criteria
+### 4. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
 directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
-### 4. To get you started...
+### 5. To get you started...
 - Distance rules for planes: https://www.baatraining.com/how-close-can-a-plane-fly-to-another-aircraft
+- Web and API development with Python: https://flask.palletsprojects.com/  
 
 
