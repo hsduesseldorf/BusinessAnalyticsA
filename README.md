@@ -1,5 +1,5 @@
 ![HSD logo](/images/HSD_logo.png)
-# Business Analytics A - *Use Cases*  
+# Business Analytics A - *Use Cases Summer 2021*  
 Working on Use Cases in Git Hub is intended to be a fully-digitized replacement 
 of a student term papers. Instead of a written paper, students have to create 
 and work in a single code repository on GitHub. In this directory the use case 
