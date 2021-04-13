@@ -39,10 +39,8 @@ def main():
     current_team_size = 0
     while students:
         if current_team_size == 0:
-            use_case = use_cases.pop()
-            team = {"use case": use_case, "students": []}
-        student = students.pop()
-        team["students"].append(student)
+            team = {"use case": use_cases.pop(), "students": []}
+        team["students"].append(students.pop())
         current_team_size += 1
         if current_team_size >= target_team_size:
             teams.append(team)
