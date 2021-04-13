@@ -2,6 +2,8 @@
 **[...back to use case list](/../../blob/main/README.md)**
 
 # 009 - Personal Alexa-like Speech Service
+**Summary:**  Implement an Alexa alike speech service in Python. 
+natural language processing. 
 ### 1. Use Case Classification
 **Complexity:**  medium complex use case with focus on 
 natural language processing. 
@@ -11,16 +13,16 @@ speech assistant.
 
 **Team setup:** 2 to 3 students.
 
-### 1. Purpose
+### 2. Story
 > **HAL 9000**: "I'm sorry Dave, I'm afraid I can't do that."
-> https://youtu.be/ARJ8cAGm6JE
+> [...YouTube Video.](https://youtu.be/ARJ8cAGm6JE)
 
 **Me:** *HAL, please... Can someone else help me?*   
 
 **You:** *No problem, I'm a Python hero!*
 
 
-### 2. Functional Requirements / Expected Results
+### 3. Functional Requirements / Expected Results
 Create a command line tool, named **hal.py** that... 
 
 1. ...starts to listen after "Hello Hal" (or some other vocal trigger).
@@ -44,17 +46,16 @@ Create a command line tool, named **hal.py** that...
    **'hal.py --help'** or  ** 'hal.py --h'** on Mac/Unix.
 
 
-### 3. Success Criteria
+### 4. Success Criteria
 A GitHub repository (public or private) that everyone can clone/download and that
 directly starts up after the requirements listed in ***requirements.txt*** are fulfilled.
 
-### 4. To get you started...
+### 5. To get you started...
  - Start here: *The Ultimate Guide To Speech Recognition With Python*
    https://realpython.com/python-speech-recognition/
  - Text processing: https://spacy.io
  - Text-to-Speech: e.g. https://pypi.org/project/pyttsx3/
- 
-
-https://gist.github.com/mabdrabo/8678538
-https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
-https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d
+ - Audio data analysis:
+    - https://gist.github.com/mabdrabo/8678538
+    - https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
+    - https://medium.com/@almeidneto/sound-pattern-recognition-with-python-9aff69edce5d

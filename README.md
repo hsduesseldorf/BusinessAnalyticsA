@@ -33,36 +33,64 @@ there is no right to get assigned to a certain use case. All is based on luck.
 
 ### 001 - Earth Quake Detector
 Realtime detection and visualization of earth quake
-occurrences in predefined region (map segment) over a certain time:
+occurrences in predefined region (map segment) over a certain time.
+
 **[001-eartkquake-dectector](/cases/001-earthquake-detector/README.md)**
 
 ### 002 - Audio News Podcast Generator
-Automated generation of a podcast from relevant news available on the internet:
+Automated generation of a podcast from relevant news available on the internet.
+
 **[002-audio-news-podcast-generator](/cases/002-audio-news-potcast-generator/README.md)**
 
 ### 003 - Earth Quake Detector
 Realtime visualization and detection of "close to crash approximations"
-of airplanes in a defined area/region:
+of airplanes in a defined area/region.
+
 **[003-plane-close-crash-detector](/cases/003-plane-close-crash-detector/README.md)**
 
 ### 004 - Twitter Sentiment Analyzer
 Analyze the sentiment of reactions on a single Twitter tweet and how they develop 
 and change over time.
+
 **[004-twitter-sentiment-analyzer](/cases/004-twitter-sentiment-analyzer/README.md)**
 
 ### 005 - Twitter Weighted Follower Analyzer
-Visualize followers on Twitter:
+Stunning visualization of followers on Twitter.
+
 **[005-twitter-weighted follower-graph](/cases/005-twitter-weighted-follower-graph/README.md)**
 
 ### 006 - Employee Attrition Analysis
 Implement a web service to analyse employee data to identify employees 
-likely to leave the company to be able to initiate counter measures:
+likely to leave the company to be able to initiate counter measures.
+
 **[006-employee-attrition-analysis](/cases/006-employee-attrition-analysis/README.md)**
 
 ### 007 - Parquet File Viewer
 Implement a web service to display and analyze files in
 the popular Parquet data file format.
+
 **[007-parquet-file-viewer](/cases/007-parquet-file-viewer/README.md)**
+
+
+### 008 - Time Series Forecasting
+Implement a web service to forecast any file containing time series data
+with just one click.
+
+**[008-timeseries-forecasting](/cases/008-timeseries-forecasting/README.md)**
+
+
+### 009 - Personal Alexa-like Speech Service
+Implement an Alexa alike speech service in Python.
+
+**[009-personal-alexa-like-speech-service](/cases/009-personal-alexa-like-speech-service/README.md)**
+
+
+### 010 - Night Time Noise and Snoring Tracker and Recorder
+Implement a sleeping and snoring tracker in Python
+that monitors, analyses and logs any relevant noise over the night.
+
+**[010-nighttime-noise-and-snoring-tracker](/cases/010-nighttime-noise-and-snoring-tracker/README.md)**
+
 
 
 ## B. How to process use cases

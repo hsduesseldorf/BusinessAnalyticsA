@@ -2,7 +2,7 @@
 **[...back to use case list](/../../blob/main/README.md)**
 
 # 003 - Twitter Weighted Follower Graph
-**Summary**: Visualize followers on Twitter.
+**Summary**: Stunning visualization of followers on Twitter.
 
 ### 1. Use Case Classification
 **Complexity:** Low to medium complex use case with focus on Twitter
