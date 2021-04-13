@@ -12,15 +12,18 @@ of a student term papers. Instead of a written paper, students have to create
 and work in a single code repository on GitHub. In this directory the use case 
 is entirely processed, implemented and documented. 
 
-Use cases are most often designed to be each processed by a team 2 to 3 students. 
-Reasons: As a team you don't get stuck so easily, you can distribute the workload
-on more shoulders, you need to coordinate the team and especially because 
-*teamwork is simply more fun*. 
+Use cases are most often designed to be each processed by a team 2 to 3 (or more) 
+students. Reasons: As a team you don't get stuck so easily, you can distribute 
+the workload on more shoulders, you need to coordinate the team and especially 
+because ***teamwork is simply more fun***. 
 
 ### Assignment of use cases to teams
 Each individual use case will be processed by one single team. Teams will be put 
 together randomly from all registered students by a Python program. Use cases will
 then be assigned randomly to the available teams.
+
+Here's a simple Python script to randomly assign students to the use cases:
+[students_to_case.py](/code/students_to_case.py) 
 
 ### Use cases objectives
 The use cases have been designed to reflect the contents, focus topics and 
