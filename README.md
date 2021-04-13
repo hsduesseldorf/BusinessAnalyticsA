@@ -26,7 +26,7 @@ Düsseldorf**. These are:
 - Collaboration in asynchronous teams with distributed responsibilities.
 
 
-## A. Available use cases
+# A. Available use cases
 Teams are allowed and encouraged to propose additional use cases. But only 
 before the use cases get randomly assigned to the individual teams. Hence,
 there is no right to get assigned to a certain use case. All is based on luck.
@@ -92,8 +92,7 @@ that monitors, analyses and logs any relevant noise over the night.
 **[010-nighttime-noise-and-snoring-tracker](/cases/010-nighttime-noise-and-snoring-tracker/README.md)**
 
 
-
-## B. How to process use cases
+# B. How to process use cases
 In order to meet the examination requirements of the HSD University of Applied 
 Sciences (Düsseldorf), the following structure, procedures and standards must be followed.
 They are the basis for the grading of your use case. If you miss them you may get 
