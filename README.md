@@ -22,7 +22,7 @@ learning objectives of the **Business Analytics A** class with the
 Düsseldorf**. These are:
 - Introduction to Professional Programming with Python
 - Agile Software Project Management and Application Lifecycle Management using GitHub
-- Development of Analytical solutions
+- Development of Analytical Solutions
 - Collaboration in asynchronous teams with distributed responsibilities.
 
 
@@ -102,7 +102,24 @@ in regard of size and code quality and structure, then you might get downgraded 
 to 4.0. *So, better be careful in following these rules...*
 
 
-### 1. The README.md file
+### 1. The use of a dedicated GitHub repositories
+Backbone of each use case is a dedicated (not a shared) GitHub repository. Anything
+within this repository counts for evaluation, anything outside does not.
+
+The repository can be private (recommended) or public and needs to be created by one
+of the team members. If the repository is private, then the team has to ensure that
+- all **students of the team** have **read/write** access to the repository.
+- the **teacher** has **read/write** access (just in case you need support).
+- **all other students** of the current class have **read** access only.
+
+If the repository is public, then the team has to ensure that
+- all **students of the team** have **read/write** access to the repository.
+- the **teacher** has **read/write** access (just in case you need support).
+
+***WARNING***: A repository with granted access as described above will **be rated
+as non-existing**. So better handle and check access right with care. 
+
+### 2. The README.md file
 The file **README.md** represents the central entry point and your main contributions
 for the evaluation and examination of the given use case. This document needs to contain
 at least 10.000 characters, but not more than 100.000 characters. 
@@ -160,7 +177,7 @@ and has to contain the following mandatory information in the following order:
        reason is - why it wasn't achieved.
 
 
-### 2. Proper Source Code
+### 3. Proper Source Code
 Any source code, may it be written in Python or any other programming language, 
 will be automatically validated and evaluated against common coding standards 
 and best practises. If the measured formal code quality drops below a certain threshold,
@@ -195,7 +212,7 @@ You can ensure and check proper code quality by a combination of the following m
    http://www.grantmcconnaughey.com/blog/2020/02/25/automate-python-code-quality/
 
 
-### 3. Proper organization of files
+### 4. Proper organization of files
 Create separate folders for the various artefacts of your use case. If you deal with
 data then there should be a separate ```data/...``` folder in your repository. 
 If you need to include images in your markdown file(s) then please create separate
@@ -207,7 +224,7 @@ complex class hierarchy, then it is also wise to structure it via folders.
 Follow this approach and your safe: https://github.com/kriasoft/Folder-Structure-Conventions.
 
 
-### 4. Clever utilization of the Python eco-system
+### 5. Clever utilization of the Python eco-system
 >For every problem on this planet, be sure, there exists at least one 
 > Python package that already solves it.
 
@@ -218,7 +235,7 @@ free community advice for Python coding (https://stackoverflow.com), your use
 case implementaion will become much faster and also more fun.   
 
 
-### 5. The use of GitHub's project management capabilities
+### 6. The use of GitHub's project management capabilities
 Use GitHub issues to keep track of all the tasks, enhancements and bugs in your 
 use case. For more information of issues and how to create them, please review:
 
@@ -232,13 +249,14 @@ For more information please refer to:
  - https://www.youtube.com/watch?v=nI5VdsVl0FM
  - https://www.youtube.com/watch?v=ff5cBkPg-bQ
 
-**Important:** It will be automatically evaluated if and to what extend you use
-GitHub issues and at least 1 GitHub project. If GitHub issues are not, rarely or 
-wrongly use, you might get downgraded by 0,5 grades. If no GitHub project is used
+**Important:** Usage of GitHubs project management capabilities will be automatically evaluated, 
+meaning if and to what extend you use GitHub issues and at least GitHub projects. 
+If GitHub issues are not, rarely or wrongly use, you might get downgraded by 0,5 grades. If no GitHub project is used
 or the project is empty or poorly used, you might get downgraded by another 0,5 grades.
 In total, you might loose up to 1,0 grade if you ignore GitHub issues and projects. 
-
 ![GitHub Project](/images/ghproject.jpg)
+
+
 
 All the best for your use case... 
 
