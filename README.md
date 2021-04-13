@@ -112,7 +112,7 @@ in regard of size and code quality and structure, then you might get downgraded 
 to 4.0. *So, better be careful in following these rules...*
 
 
-### 1. The use of a dedicated GitHub repositories
+### 1. Use a dedicated GitHub repository
 Backbone of each use case is a dedicated (not a shared) GitHub repository. Anything
 within this repository counts for evaluation, anything outside does not.
 
@@ -129,7 +129,7 @@ If the repository is public, then the team has to ensure that
 ***WARNING***: A repository with granted access as described above will **be rated
 as non-existing**. So better handle and check access right with care. 
 
-### 2. The README.md file
+### 2. README.md file
 The file **README.md** represents the central entry point and your main contributions
 for the evaluation and examination of the given use case. This document needs to contain
 at least 10.000 characters, but not more than 100.000 characters. 
@@ -222,7 +222,7 @@ You can ensure and check proper code quality by a combination of the following m
    http://www.grantmcconnaughey.com/blog/2020/02/25/automate-python-code-quality/
 
 
-### 4. Proper organization of files
+### 4. Proper Organization of Files
 Create separate folders for the various artefacts of your use case. If you deal with
 data then there should be a separate ```data/...``` folder in your repository. 
 If you need to include images in your markdown file(s) then please create separate
@@ -234,7 +234,7 @@ complex class hierarchy, then it is also wise to structure it via folders.
 Follow this approach and your safe: https://github.com/kriasoft/Folder-Structure-Conventions.
 
 
-### 5. Clever utilization of the Python eco-system
+### 5. Clever Utilization of the Python eco-system (Packages)
 >For every problem on this planet, be sure, there exists at least one 
 > Python package that already solves it.
 
@@ -245,7 +245,7 @@ free community advice for Python coding (https://stackoverflow.com), your use
 case implementaion will become much faster and also more fun.   
 
 
-### 6. The use of GitHub's project management capabilities
+### 6. The use of GitHub Projects and Issues
 Use GitHub issues to keep track of all the tasks, enhancements and bugs in your 
 use case. For more information of issues and how to create them, please review:
 
