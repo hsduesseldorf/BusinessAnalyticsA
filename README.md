@@ -45,7 +45,7 @@ there is no right to get assigned to a certain use case. All is based on luck.
 Realtime detection and visualization of earth quake
 occurrences in predefined region (map segment) over a certain time.
 
-**[001-eartkquake-dectector](/cases/001-earthquake-detector/README.md)**
+**[001-earthquake-detector](/cases/001-earthquake-detector/README.md)**
 
 ### 002 - Audio News Podcast Generator
 Automated generation of a podcast from relevant news available on the internet.

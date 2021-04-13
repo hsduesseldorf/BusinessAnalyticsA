@@ -8,7 +8,7 @@ that monitors, analyses and logs any relevant noise over the night.
 **Complexity:**  medium complex use case with focus on sensor data  
 analysis and real-time data processing. 
 
-**Challenges:** microphone, sound processing, AI sound pattern training & recognition, 
+**Challenges:** microphone, sound processing, AI sound pattern recognition, 
 Commandline parsing, commandline progress visualization, logging, write files to disk.
 
 **Team setup:** 2 to 3 students.
@@ -41,8 +41,8 @@ Create a command line tool, named **snoringtracker.py** that...
    - /recordings/**20210501-011500-011843.mp3**
     
 
-4. ...can take a pickle with a custom trained AI model for snorkling sound data
-   recognition. Samples:
+4. ...can take a [pickle file](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/)
+   with a custom trained AI model for snorkling sound data recognition. Samples:
    - **snoringtracker.py "models/my_snoring_model.pkl"**
    
 
