@@ -126,7 +126,7 @@ If the repository is public, then the team has to ensure that
 - all **students of the team** have **read/write** access to the repository.
 - the **teacher** has **read/write** access (just in case you need support).
 
-***WARNING***: A repository with granted access as described above will **be rated
+***WARNING***: A repository without granted access as described above will **be rated
 as non-existing**. So better handle and check access right with care. 
 
 ### 2. README.md file
